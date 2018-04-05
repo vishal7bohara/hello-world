@@ -1,0 +1,9 @@
+Red
+Green
+Blue
+Orange
+Yellow
+White
+Black
+Lime
+Turquoise
